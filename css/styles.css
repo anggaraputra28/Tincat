@@ -143,6 +143,12 @@ padding: 5%;
     transform: rotate(0);
     width: 50%;
   }
+  .container-fluid {
+    padding: 3% 10% 7%;
+  }
+  #features {
+    padding: 7% 10%;
+  }
 }
 
 /* CTA SECTION */
